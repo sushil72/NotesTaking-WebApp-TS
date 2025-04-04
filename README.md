@@ -78,17 +78,6 @@ mui-learning/
 
 4. Open your browser and navigate to `http://localhost:3000`
 
-### Deployment
-
-To deploy to GitHub Pages:
-
-1. Make sure your code is committed to GitHub
-2. Run the deploy command:
-   ```
-   npm run deploy
-   ```
-3. Your site will be available at: https://sushil72.github.io/NotesTaking-WebApp-TS/
-
 ## Best Practices Implemented
 
 - **Strong Typing**: TypeScript interfaces for all components and data structures
